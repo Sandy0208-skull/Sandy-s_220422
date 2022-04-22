@@ -12,7 +12,9 @@ permalink: /
 
 ## 何それ？
 
-まず、Lobotomy Corporationとは何ぞや。
+まず、Lobotomy Corporationとは何ぞや。  
+![title]
+
 
 
 ---
